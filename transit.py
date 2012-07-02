@@ -4,7 +4,7 @@
 transit.py
 
 Created by Alan Joyce on 2011-12-03.
-Copyright (c) 2011 Alan Joyce. All rights reserved.
+Licensed under Creative Commons BY-NC 2012
 """
 
 import sys
